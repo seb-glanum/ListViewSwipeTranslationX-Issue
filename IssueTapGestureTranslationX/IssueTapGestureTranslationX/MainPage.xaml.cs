@@ -9,7 +9,7 @@ namespace IssueTapGestureTranslationX
 {
     public partial class MainPage : ContentPage
     {
-        private StackLayout ChildStackLayout; //récupération des stacks commerces et détails
+        private StackLayout ChildStackLayout;
         private StackLayout Child2StackLayout;
         public bool HasSwipe = false;
         bool _translatedLeftOrRight;

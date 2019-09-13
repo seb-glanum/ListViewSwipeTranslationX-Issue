@@ -24,7 +24,7 @@
 
                                     <StackLayout BackgroundColor="Aqua" TranslationX="{Binding TranslationXForShops,Source={x:Reference page}}">
                                         <StackLayout.GestureRecognizers>
-                                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"></TapGestureRecognizer>
+                                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"></TapGestureRecognizer> <!--This is my issue !-->
                                         </StackLayout.GestureRecognizers>
                                         <Label Text="{Binding SecondString}" VerticalOptions="Center" HorizontalOptions="Center"></Label>
                                     </StackLayout>
