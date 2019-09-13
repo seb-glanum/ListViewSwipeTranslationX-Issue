@@ -1,0 +1,12 @@
+C:\Users\glanum\source\repos\IssueTapGestureTranslationX\IssueTapGestureTranslationX\IssueTapGestureTranslationX\bin\Debug\netstandard2.0\IssueTapGestureTranslationX.deps.json
+C:\Users\glanum\source\repos\IssueTapGestureTranslationX\IssueTapGestureTranslationX\IssueTapGestureTranslationX\bin\Debug\netstandard2.0\IssueTapGestureTranslationX.dll
+C:\Users\glanum\source\repos\IssueTapGestureTranslationX\IssueTapGestureTranslationX\IssueTapGestureTranslationX\bin\Debug\netstandard2.0\IssueTapGestureTranslationX.pdb
+C:\Users\glanum\source\repos\IssueTapGestureTranslationX\IssueTapGestureTranslationX\IssueTapGestureTranslationX\obj\Debug\netstandard2.0\IssueTapGestureTranslationX.csprojAssemblyReference.cache
+C:\Users\glanum\source\repos\IssueTapGestureTranslationX\IssueTapGestureTranslationX\IssueTapGestureTranslationX\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\glanum\source\repos\IssueTapGestureTranslationX\IssueTapGestureTranslationX\IssueTapGestureTranslationX\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\glanum\source\repos\IssueTapGestureTranslationX\IssueTapGestureTranslationX\IssueTapGestureTranslationX\obj\Debug\netstandard2.0\IssueTapGestureTranslationX.csproj.CoreCompileInputs.cache
+C:\Users\glanum\source\repos\IssueTapGestureTranslationX\IssueTapGestureTranslationX\IssueTapGestureTranslationX\obj\Debug\netstandard2.0\IssueTapGestureTranslationX.AssemblyInfoInputs.cache
+C:\Users\glanum\source\repos\IssueTapGestureTranslationX\IssueTapGestureTranslationX\IssueTapGestureTranslationX\obj\Debug\netstandard2.0\IssueTapGestureTranslationX.AssemblyInfo.cs
+C:\Users\glanum\source\repos\IssueTapGestureTranslationX\IssueTapGestureTranslationX\IssueTapGestureTranslationX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\glanum\source\repos\IssueTapGestureTranslationX\IssueTapGestureTranslationX\IssueTapGestureTranslationX\obj\Debug\netstandard2.0\IssueTapGestureTranslationX.dll
+C:\Users\glanum\source\repos\IssueTapGestureTranslationX\IssueTapGestureTranslationX\IssueTapGestureTranslationX\obj\Debug\netstandard2.0\IssueTapGestureTranslationX.pdb
